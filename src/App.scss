@@ -1,0 +1,17 @@
+
+
+$primary: #d0dd20;
+$border-radius:25px;
+.btn-primary{
+    color: $primary;
+}
+
+.login-box{
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+
+ 
+
+@import '~bootstrap/scss/bootstrap';
